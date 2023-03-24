@@ -1,3 +1,7 @@
+# this is redundant code
+# just kept it because the glitch in it is very intersting
+
+
 import pygame, sys
 
 pygame.init()
